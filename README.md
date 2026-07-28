@@ -1,4 +1,4 @@
-# Game-Boi
+# Battleship
 An embedded entertainment system
 # How to Operate
 The Core file contains the code written in the STM32CubeIDE. The files serve as an example for future games.
